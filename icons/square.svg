@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" width="150" height="150" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title">ShotbookPreflight - Square Icon</title>
+ <defs id="defs">
+  <filter id="filter28" x="-.09231" y="-.06316" width="1.208" height="1.142" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".498" in="SourceGraphic" result="flood"/>
+   <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="0.500000"/>
+   <feOffset dx="0.300000" dy="0.300000" in="blur" result="offset"/>
+   <feComposite in="flood" in2="offset" operator="in" result="comp1"/>
+   <feComposite in="SourceGraphic" in2="comp1" result="comp2"/>
+  </filter>
+  <linearGradient id="linearGradient36" x1="12.05" x2="12.05" y1="16.21" y2="7.722" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#263" offset="0"/>
+   <stop stop-color="#26743b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="background" d="m3.175 0h17.65a3.175 3.175 45 0 1 3.175 3.175v17.65a3.175 3.175 135 0 1-3.175 3.175h-17.65a3.175 3.175 45 0 1-3.175-3.175v-17.65a3.175 3.175 135 0 1 3.175-3.175z" fill="url(#linearGradient36)" fill-rule="evenodd" stroke-linecap="round" stroke-width="1.897"/>
+ <g fill-rule="evenodd" stroke-linecap="round">
+  <rect id="paper" x="5.5" y="2.5" width="13" height="19" fill="#fff" filter="url(#filter28)" stroke-width=".0693"/>
+  <rect id="square" x="6" y="6" width="12" height="12" fill="#263" stroke-width=".05291"/>
+  <path id="text" d="m10.59 9.817c0-0.6494 0.0481-1.07 0.1684-1.696-0.9621-0.3848-1.491-0.5051-2.165-0.5051-1.792 0-3.091 1.13-3.091 2.706 0 0.6013 0.1563 1.022 0.5051 1.347 0.4089 0.3728 0.9621 0.5652 2.129 0.7216 0.914 0.1323 1.335 0.2646 1.66 0.5412 0.3127 0.2525 0.457 0.6013 0.457 1.058 0 1.082-0.9019 1.864-2.165 1.864-0.95 0-1.852-0.4488-1.948-0.9621l-0.1536-0.8057h-0.3275c0 0.926-0.01203 1.311-0.08418 1.84 0.6855 0.3127 1.371 0.457 2.08 0.457 2.093 0 3.608-1.263 3.608-3.006 0-0.8298-0.3247-1.323-1.106-1.648-0.3728-0.1563-0.6855-0.2285-1.66-0.3608-1.467-0.1924-1.984-0.5893-1.984-1.515 0-1.01 0.7576-1.732 1.816-1.732 0.469 0 0.914 0.09621 1.239 0.2766 0.3969 0.2044 0.5291 0.3848 0.5652 0.7336l0.07216 0.6855zm3.536-1.395c0.4209-0.1082 0.7697-0.1443 1.179-0.1443 1.311 0 1.996 0.6013 1.996 1.744 0 1.082-0.7336 1.84-1.78 1.84-0.2646 0-0.445-0.02405-0.7456-0.1203l0.1203 0.4329c0.2886 0.06013 0.457 0.07216 0.6975 0.07216 1.648 0 2.91-1.118 2.91-2.562 0-1.154-0.938-1.864-2.465-1.864-0.07216 0-0.1804 0-0.3367 0.01203-0.6013 0.01203-1.335 0.02405-1.708 0.02405s-0.9981-0.01203-2.189-0.03608v0.3608l0.5412 0.03608c0.5532 0.0481 0.6253 0.1684 0.6374 1.082v5.4c-0.01203 0.9621-0.06013 1.058-0.6133 1.082l-0.5772 0.03608v0.3608c0.7095-0.02405 1.13-0.03608 1.756-0.03608s1.058 0.01203 1.768 0.03608v-0.3608l-0.5772-0.03608c-0.5532-0.02405-0.6013-0.1082-0.6133-1.082z" fill="#fff" stroke-width="2.139" aria-label="SP"/>
+ </g>
+ <metadata id="metadata">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>ShotbookPreflight - Square Icon</dc:title>
+    <dc:date>2024-09-11</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Wolfgang de Groot</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>Wolfgang de Groot</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:language>English</dc:language>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>
